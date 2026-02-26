@@ -25,14 +25,14 @@ document.querySelectorAll('.skill-bar').forEach(bar => {
 // ── PDF CERTIFICATES ──
 // Files must be in the same folder as index.html (or update paths below)
 const pdfURLs = [
-  'certificates/html.pdf',
-  'certificates/css.pdf',
-  'certificates/frontend.pdf',
-  'certificates/digital.pdf',
-  'certificates/aws.pdf',
-  'certificates/js.pdf',
-  'certificates/git.pdf',
-  'certificates/nodejs.pdf'
+  'html.pdf',
+  'css.pdf',
+  'frontend.pdf',
+  'digital.pdf',
+  'aws.pdf',
+  'js.pdf',
+  'git.pdf',
+  'nodejs.pdf'
 ];
 
 const certNames = [
