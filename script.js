@@ -1,5 +1,5 @@
 // ============================================================
-// 🔑 SUPABASE CREDENTIALS
+// SUPABASE CREDENTIALS
 // ============================================================
 const SB_URL = 'https://cnscasydoxrrakslsdly.supabase.co';
 const SB_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNuc2Nhc3lkb3hycmFrc2xzZGx5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzIwOTg1MTksImV4cCI6MjA4NzY3NDUxOX0.WzguCiIEn54uyXwFbk6j8uRTGdMch0Ev0ShNGY6k2qA';
